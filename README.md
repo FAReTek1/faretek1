@@ -25,7 +25,7 @@ Holy poop [goboscript](https://github.com/aspizu/goboscript) is so good
   You can use the standard library by adding these lines to goboscript.toml:
   ```toml
   [dependencies]
-  std = "https://github.com/FAReTek1/package@<the version you want to use>"
+  package = "https://github.com/FAReTek1/package@<the version you want to use>"
   ```
   
   Then, add this %include to your gs file:
