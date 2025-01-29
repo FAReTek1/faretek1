@@ -39,12 +39,13 @@ Holy poop [goboscript](https://github.com/aspizu/goboscript) is so good
 10. Write your code
 11. Use `%include`s in your outer gs file. MAKE SURE TO SEPERATE THEM WITH NEWLINES
 12. Make sure everything is using LF
-13. Push to a github repository:
+13. Push to a github repository
+14. Add a repo description maybe
+15. Make a github (pre-)release:
     Description:
     ```
     v0.0.0
     Unbuilt test release.
     ```
-15. Make a github (pre-)release
 16. edit the `test/goboscript.toml` file to add the repo on github.
 17. Check for bugs.
