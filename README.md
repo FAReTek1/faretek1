@@ -36,7 +36,8 @@ Holy poop [goboscript](https://github.com/aspizu/goboscript) is so good
 9. Add a `goboscript.toml` file containing `[dependencies]`
 10. Write your code
 11. Use `%include`s in your outer gs file. MAKE SURE TO SEPERATE THEM WITH NEWLINES
-12. Push to a github repository
-13. Make a github (pre-)release
-14. edit the `test/goboscript.toml` file to add the repo on github.
-15. Check for bugs.
+12. Make sure everything is using LF
+13. Push to a github repository
+14. Make a github (pre-)release
+15. edit the `test/goboscript.toml` file to add the repo on github.
+16. Check for bugs.
