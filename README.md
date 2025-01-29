@@ -5,7 +5,7 @@ Holy poop [goboscript](https://github.com/aspizu/goboscript) is so good
 
 ---
 
-(for myself)
+(for myself):
 ## Step-by-step reminder of how to make a new goboscript package
 1. create a new folder
 2. add a 'test' project in it - `goboscript new --name test`
