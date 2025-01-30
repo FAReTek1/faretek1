@@ -22,7 +22,7 @@ Holy poop [goboscript](https://github.com/aspizu/goboscript) is so good
   ## Installation
   To use this, make sure to install [backpack](https://github.com/aspizu/backpack)
   
-  You can use the standard library by adding these lines to goboscript.toml:
+  You can use the package library by adding these lines to goboscript.toml:
   ```toml
   [dependencies]
   package = "https://github.com/FAReTek1/package@<the version you want to use>"
