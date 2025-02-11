@@ -3,6 +3,7 @@ Did I jump scare you? Yeah I bet I did. You coward
 
 Holy poop [goboscript](https://github.com/aspizu/goboscript) is so good
 
+<!--
 ---
 
 (for myself):
@@ -50,3 +51,4 @@ Holy poop [goboscript](https://github.com/aspizu/goboscript) is so good
     ```
 16. edit the `test/goboscript.toml` file to add the repo on github.
 17. Check for bugs.
+-->
