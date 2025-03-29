@@ -3,6 +3,8 @@ Did I jump scare you? Yeah I bet I did. You coward
 
 Holy poop [goboscript](https://github.com/aspizu/goboscript) is so good
 
+https://github.com/FAReTek1/faretek1/discussions
+
 <!--
 ---
 
