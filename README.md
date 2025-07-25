@@ -6,3 +6,4 @@ maybe check [some of my gists](http://gist.github.com/FAReTek1)
 
 https://github.com/FAReTek1/faretek1/discussions
 
+https://monkeplace.blogspot.com/
