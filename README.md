@@ -1,5 +1,5 @@
 [![stuff](https://img.shields.io/badge/link_to-scratch-f8a937)](https://scratch.mit.edu/users/faretek1)
-[![stuff](https://img.shields.io/badge/link_to-monke_place-6a4332)](https://monkeplace.blogspot.com/)
+[![stuff](https://img.shields.io/badge/link_to-monke_place-6a4332)](https://faretek1.github.io/blog/)
 [![stuff](https://img.shields.io/badge/link_to-gists-25292e)](https://gist.github.com/FAReTek1)
 [![stuff](https://img.shields.io/badge/link_to-discussions-ffffff)](https://github.com/FAReTek1/faretek1/discussions)
 
